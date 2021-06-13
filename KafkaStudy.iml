@@ -7,5 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="kafka-clients-2.7.0" level="application" />
   </component>
 </module>
